@@ -10,7 +10,7 @@ button {
   button {
     display: inline-block;
     background-color: #e6e6e6;
-    color: #000;
+    color: #301111;
     border: 0;
     padding: 7px 14px;
     text-align: center;
@@ -20,6 +20,6 @@ button {
   
   button:hover,
   button:focus {
-    background-color: #333;
+    background-color: #432929;
     color: #ffffff;
   }
